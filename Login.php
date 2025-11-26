@@ -12,7 +12,7 @@
 
             background-image: url('login.jpg');
             height: 100vh;
-            min-height: 100vh;
+            min-height: 101vh;
             background-size: cover;
             display: flex;
             flex-direction: column;
@@ -96,3 +96,4 @@
     </div>
 </body>
 </html>
+
