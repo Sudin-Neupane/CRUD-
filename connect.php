@@ -30,7 +30,7 @@ $result = $conn->query($sql);
             font-family: Arial, sans-serif;
             background-color: #f2f2f2;
             background-image: url('connect2.jpg');
-            height: 100vh;
+            height: 101vh;
             min-height: 100vh;
             background-size: cover;
             display: flex;
@@ -147,3 +147,4 @@ function opendeletePage() {
 
 $conn->close();
 ?>
+
